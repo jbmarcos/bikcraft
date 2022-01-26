@@ -7,17 +7,24 @@
 @import "./utilidades/tipografia.css";
 
 /* para usar varias vezes */
-
 @import "./utilidades/cores.css";
 
 /* header */
 @import "./global/header.css";
+
+@import "./global/footer.css";
 
 /* Utilidades */
 @import "./utilidades/componentes.css";
 
 /* Home */
 @import "./home/introducao.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
-/* Bicicletas lista */
+/* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
+
+/* Seguros */
+@import "./seguros/seguros.css";
